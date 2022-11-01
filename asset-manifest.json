@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https/sudarshanmg.github.io/hp/static/css/main.7d24d5bb.css",
+    "main.js": "/https/sudarshanmg.github.io/hp/static/js/main.b9aa5b70.js",
+    "index.html": "/https/sudarshanmg.github.io/hp/index.html",
+    "main.7d24d5bb.css.map": "/https/sudarshanmg.github.io/hp/static/css/main.7d24d5bb.css.map",
+    "main.b9aa5b70.js.map": "/https/sudarshanmg.github.io/hp/static/js/main.b9aa5b70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d24d5bb.css",
+    "static/js/main.b9aa5b70.js"
+  ]
+}
