@@ -14,7 +14,7 @@ const App = () => {
     setIsLoading(true);
     try{
     const response = await fetch(
-      'https://hp-api.herokuapp.com/api/characters/'
+      'https://hp-api.onrender.com/api/characters'
     );
     if(!response.ok) {
       setError(true);
