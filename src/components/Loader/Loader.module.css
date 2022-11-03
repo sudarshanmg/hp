@@ -1,0 +1,9 @@
+.loader {
+    margin: 1rem auto;
+    min-height: 2rem;
+    width: 40%;
+    border-radius: 0.5rem;
+    background-color: rgb(7, 39, 78);
+    text-align: center;
+    color: antiquewhite;
+}

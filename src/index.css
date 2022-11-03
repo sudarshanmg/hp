@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Roboto', sans-serif;
+  /* font-family: 'Signika', sans-serif; */
+  background-color: #0d161b;
+}
+
+body {
+  margin: 0;
+}
