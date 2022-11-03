@@ -1,17 +1,18 @@
 .button {
-    background-color: rgb(28, 53, 53);
+    background-color: transparent;
+    font-family: "Playfair Display";
     color: white;
     font-size: 1rem;
-    font-weight: 700;
-    border: 0;
+    font-weight: 500;
     padding: 1rem;
-    border-radius: 1rem;
-    margin: inherit;
+    margin: 2rem auto;
+    border: solid #A09C90 3px;
     max-width: fit-content;
+    transition: ease-in-out 300ms;
 }
 
 .button:hover {
-    background-color: transparent;
-    outline: solid 2px rgb(28, 53, 53);
+    background-color: #A09C90;
+    border: solid 3px rgb(240, 240, 240);
     cursor: pointer;
 }
